@@ -1,2 +1,7 @@
-# DCGAN_anime
-Image generation using Deep Convolutional Generative Adversarial Networks for anime images (DCGAN) 
+## DCGAN Anime images
+
+Generating anime images unsing DCGAN. 
+
+
+
+
